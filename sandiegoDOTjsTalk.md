@@ -72,7 +72,7 @@ The app is themed on the artificial intelligence (AI) character from the Iron Ma
 
 &nbsp;
 
-![overview](https://user-images.githubusercontent.com/15971213/38169467-911c15ea-351f-11e8-9355-9d65481cd527.png)
+![overview](https://user-images.githubusercontent.com/15971213/38169486-e1d25ab2-351f-11e8-9e00-cd97f4c292c6.png)
 
 &nbsp;
 
