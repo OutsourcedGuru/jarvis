@@ -66,9 +66,9 @@ The app is themed on the artificial intelligence (AI) character from the Iron Ma
 2. This gets directed to an **Amazon Skill** (ASK) in the cloud
 3. An **intent** is determined and forwarded to an **Amazon Lambda** function (JavaScript)
 4. An HTTP GET request is directed to my firewall's external IP address with an ephemeral port
-5. The firewall at my home redirects the traffic to a certain computer
+5. The firewall at my home redirects the traffic to a server
 6. A **Raspberry Pi Zero W** is running **octo-proxy** (JavaScript) to authenticate and proxy the traffic to my printer
-7. My 3D printer (charming-pascal) then responds to the request and the information flows back up the chain
+7. My 3D printer then responds to the request and the information flows back up the chain
 
 &nbsp;
 
@@ -92,3 +92,27 @@ The app is themed on the artificial intelligence (AI) character from the Iron Ma
 7. Preheat the extruder for three different filament types as well as cool it down again
 8. Start and stop the webcam service
 9. Open the J.A.R.V.I.S. app itself to hear a dialog event from the Iron Man movie
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## Future Development
+
+The next logical step is to create a website concept which allows others to remotely control their own printers.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
