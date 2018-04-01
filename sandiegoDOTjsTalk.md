@@ -20,6 +20,8 @@ The app is themed on the artificial intelligence (AI) character from the Iron Ma
 
 &nbsp;
 
+![J.A.R.V.I.S.](https://outsourcedguru.files.wordpress.com/2017/08/jarvis.jpg?w=739)
+
 &nbsp;
 
 &nbsp;
@@ -51,12 +53,7 @@ The app is themed on the artificial intelligence (AI) character from the Iron Ma
 * Two Kasa-based TP-Link Smart Plugs to control power (printer & proxy)
 * Netgear firewall
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
+![c2-r2-header](https://user-images.githubusercontent.com/15971213/32683766-b7311db8-c632-11e7-9f81-8d5e35315461.jpg)
 
 &nbsp;
 
