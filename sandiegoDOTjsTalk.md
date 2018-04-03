@@ -34,6 +34,10 @@ The app is themed on the artificial intelligence (AI) character from the Iron Ma
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ## Developed code for this project:
 * **octo-proxy** server running at home (250 lines of JavaScript) on a Raspberry Pi Zero W computer
 * **J.A.R.V.I.S.** app in the Alexa Skills Kit cloud (ASK)
