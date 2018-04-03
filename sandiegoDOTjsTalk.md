@@ -30,10 +30,18 @@ The app is themed on the artificial intelligence (AI) character from the Iron Ma
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ## Developed code for this project:
 * **octo-proxy** server running at home (250 lines of JavaScript) on a Raspberry Pi Zero W computer
 * **J.A.R.V.I.S.** app in the Alexa Skills Kit cloud (ASK)
 * **jarvisApp** Lambda cloud function at Amazon (over 1200 lines of JavaScript)
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -57,6 +65,10 @@ The app is themed on the artificial intelligence (AI) character from the Iron Ma
 ![img_0486](https://user-images.githubusercontent.com/15971213/38273068-df05fb78-373f-11e8-9657-27dff65155ad.png)
 ![img_0487](https://user-images.githubusercontent.com/15971213/38273095-f8474722-373f-11e8-85d3-1f15b549142f.png)
 ![img_0488](https://user-images.githubusercontent.com/15971213/38273124-090f55fe-3740-11e8-9dc5-0f473ec19c77.png)
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
