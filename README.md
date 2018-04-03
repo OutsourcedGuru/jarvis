@@ -7,13 +7,24 @@ An AI interface for controlling a 3D printer remotely via Amazon Alexa using a J
 
 ## Amazon Alexa Intents
 * Open: "Open Jarvis" => Introductory phrase
-* StatusPrinterIntent: "Ask Jarvis for printer status" => "charming-pascal is ready and operational" 
+* StatusPrinterIntent: "Ask Jarvis for printer status" => "charming-pascal is ready and operational"
+* ShutdownPrinterIntent: "Ask Jarvis to shut down the printer" => Exit phrase
+* RebootPrinterIntent" "Ask Jarvis to reboot the printer" -> "The printer has been rebooted"
+* RestartPrinterIntent: "Ask Jarvis to restart the printer" => "The printer service has been restarted" 
 * StatusPrintIntent: "Ask Jarvis for job status" => "charming-pascal is currently printing RC_clip.gcode"
 * StatusSelectionIntent: "Ask Jarvis which file is selected" => "RC_clip.gcode is currently selected"
 * StartPrintIntent: "Ask Jarvis to start the print" => "The selected print job has been started"
 * StopPrintIntent: "Ask Jarvis to cancel the job" => "The selected print job has been canceled"
 * PausePrintIntent: "Ask Jarvis to pause the job" => "The selected print job has been paused"
 * ResumePrintIntent: "Ask Jarvis to resume the print job" => "The selected print job has been resumed"
+* ListFilesIntent: "Ask Jarvis to list the files" => "First: Vase, second: Birdhouse..."
+* SelectFileIntent: "Ask Jarvis to select the third file" => "The third file, LAWN_GNOME, has been selected"
+* StartWebcamIntent: "Ask Jarvis to start the webcam" => "The webcam service has been started"
+* StopWebcamIntent: "Ask Jarvis to stop the webcam" => "The webcam service has been stopped"
+* PreheatPLAIntent: "Ask Jarvis to preheat for PLA" => "The printer is preheating for PLA filament"
+* PreheatABSIntent: "Ask Jarvis to preheat for ABS" => "The printer is preheating for ABS filament"
+* PreheatCFPLAIntent: "Ask Jarvis to preheat for carbon fiber PLA" => "The printer is preheating for carbon fiber PLA filament"
+* CoolExtruderIntent: "Ask Jarvis to cool the extruder" => "The printer is cooling down the extruder"
 * CancelIntent: "Ask Jarvis to cancel" => etc
 * HelpIntent: "Ask Jarvis for help" => etc
 * StopIntent: "Ask Jarvis to stop" => etc
