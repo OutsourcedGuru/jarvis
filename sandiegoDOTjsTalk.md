@@ -53,7 +53,10 @@ The app is themed on the artificial intelligence (AI) character from the Iron Ma
 * Two Kasa-based TP-Link Smart Plugs to control power (printer & proxy)
 * Netgear firewall
 
-![c2-r2-header](https://user-images.githubusercontent.com/15971213/32683766-b7311db8-c632-11e7-9f81-8d5e35315461.jpg)
+![img_0485](https://user-images.githubusercontent.com/15971213/38272991-b765cb66-373f-11e8-93fa-bbf141b112c5.png)
+![img_0486](https://user-images.githubusercontent.com/15971213/38273068-df05fb78-373f-11e8-9657-27dff65155ad.png)
+![img_0487](https://user-images.githubusercontent.com/15971213/38273095-f8474722-373f-11e8-85d3-1f15b549142f.png)
+![img_0488](https://user-images.githubusercontent.com/15971213/38273124-090f55fe-3740-11e8-9dc5-0f473ec19c77.png)
 
 &nbsp;
 
