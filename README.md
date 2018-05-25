@@ -45,3 +45,8 @@ Teaming this with a [TP-Link Smart Plug](https://www.tp-link.com/us/products/det
 I intend to create a website which allows people to introduce their own 3D printers as a profile and then remotely-control them via an authenticated console. Obviously, each person would need their own proxy but I imagine generating and selling these as a low-cost add-on to the otherwise (assumed) free service.
 
 I'll also need to proxy the printer's webcam service, to stop/start the webcam, etc. But the functionality at the moment is rather good so far.
+
+|Donate||Cryptocurrency|
+|:-----:|---|:--------:|
+| ![eth-receive](https://user-images.githubusercontent.com/15971213/40564950-932d4d10-601f-11e8-90f0-459f8b32f01c.png) || ![btc-receive](https://user-images.githubusercontent.com/15971213/40564971-a2826002-601f-11e8-8d5e-eeb35ab53300.png) |
+|Ethereum||Bitcoin|
